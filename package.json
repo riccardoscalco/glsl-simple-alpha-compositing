@@ -1,7 +1,7 @@
 {
   "name": "glsl-simple-alpha-compositing",
   "version": "1.0.1",
-  "description": "Simple alpha compositing function in glsl.",
+  "description": "GLSL implementation of the simple alpha compositing function.",
   "main": "index.js",
   "scripts": {
     "test": "glslify test.glsl | glsl-testify | tap-spec",

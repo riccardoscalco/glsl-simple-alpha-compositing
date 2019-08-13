@@ -1,6 +1,6 @@
 # glsl-simple-alpha-compositing
 
-Simple alpha compositing function in glsl, as described in the [W3C Editor's draft](https://drafts.fxtf.org/compositing-1/#simplealphacompositing) in Compositing and Blending.
+GLSL implementation of the simple alpha compositing function, as described in the [W3C Editor's draft](https://drafts.fxtf.org/compositing-1/#simplealphacompositing) in Compositing and Blending.
 
 ## Install
 
