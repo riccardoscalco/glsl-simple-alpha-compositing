@@ -1,6 +1,6 @@
 {
   "name": "glsl-simple-alpha-compositing",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "GLSL implementation of the simple alpha compositing function.",
   "main": "index.js",
   "scripts": {
