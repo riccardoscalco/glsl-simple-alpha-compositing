@@ -25,7 +25,7 @@
   "devDependencies": {
     "glsl-testify": "^1.0.0",
     "glslify": "^7.0.0",
-    "np": "^5.0.3",
+    "np": "^6.2.0",
     "tap-spec": "^5.0.0"
   },
   "publishConfig": {
