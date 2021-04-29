@@ -1,0 +1,14 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: monthly
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: np
+    versions:
+    - 7.2.0
+  - dependency-name: lodash
+    versions:
+    - 4.17.20
